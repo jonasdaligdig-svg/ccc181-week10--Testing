@@ -25,7 +25,7 @@ npm run build        # must finish with no errors before you submit
 | --- | --- |
 | Group number | 3 |
 | Section | A |
-| Repository URL | `https://github.com/ShaunPorras/ccc181-week10--group3.git` |
+| Repository URL | `` |
 
 ## Members (each member fills in their own row in their own commit)
 

@@ -23,15 +23,15 @@ npm run build        # must finish with no errors before you submit
 
 | Item | Your answer |
 | --- | --- |
-| Group number | |
-| Section | |
-| Repository URL | |
+| Group number | 3 |
+| Section | A |
+| Repository URL | `https://github.com/ShaunPorras/ccc181-week10--group3.git` |
 
 ## Members (each member fills in their own row in their own commit)
 
 | Member | Name | GitHub username | CSS file | What I did |
 | --- | --- | --- | --- | --- |
-| 1 (leader) | | | `base.css` | |
+| 1 | Shaun Armand E. Porras | `PorrasShaun` | `src/styles/base.css` | Built viewport meta tag and mobile-first page & brand panel layout (`feature/base-shaun`) |
 | 2 | | | `nav.css` | |
 | 3 | | | `form.css` | |
 
@@ -61,4 +61,4 @@ Screenshots are in `screenshots/` as `360.png`, `768.png`, `1024.png`, `1280.png
 
 ## What our group learned (leader writes this last)
 
-> (write your answer here)
+> Our group learned how to build a responsive interface starting from a 360px mobile base layout and progressively enhancing it with min-width media queries at 768px, 1024px, and 1280px, while enforcing 48px touch targets and 16px font sizes for mobile usability. We also learned how dividing CSS into modular files (base.css, nav.css, form.css) across separate Git feature branches and cross-reviewing Pull Requests prevents merge conflicts and keeps teamwork organized.

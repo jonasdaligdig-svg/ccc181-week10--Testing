@@ -23,7 +23,7 @@ npm run build        # must finish with no errors before you submit
 
 | Item | Your answer |
 | --- | --- |
-| Group number | 3 |
+| Group number | 5 |
 | Section | A |
 | Repository URL | https://github.com/jonasdaligdig-svg/ccc181-week10-group3.git |
 

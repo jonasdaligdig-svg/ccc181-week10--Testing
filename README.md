@@ -33,7 +33,10 @@ npm run build        # must finish with no errors before you submit
 | --- | --- | --- | --- | --- |
 | 1 | Shaun Armand E. Porras | `PorrasShaun` | `src/styles/base.css` | Built viewport meta tag and mobile-first page & brand panel layout (`feature/base-shaun`) |
 | 2 | | | `nav.css` | |
-| 3 | | | `form.css` | |
+| 3 | Ruby Jean Gabilan| `gabilanrubyjean-pixel`| `src/styles/form.css` | Built a mobile-first login card with stacked Flexbox form fields, 48px inputs and buttons, focus-visible styles, and responsive form options and button layouts at 768px and 1024px (`feature/form-ruby`)|
+
+## Experiment 0: the page without the viewport tag
+
 
 ## Experiment 0: the page without the viewport tag
 

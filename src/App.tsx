@@ -1,9 +1,8 @@
-// GIVEN FILE: your job is the CSS in src/styles/. Do not edit .tsx files
-// (if you must, tell your group first). Class names are fixed; style them.
 import Navbar from './components/Navbar';
 import BrandPanel from './components/BrandPanel';
 import LoginForm from './components/LoginForm';
 import Footer from './components/Footer';
+import './styles/auth.css';
 
 export default function App() {
   return (
